@@ -1,7 +1,7 @@
 # You Don't Know JS: Up & Going
 # Chapter 1: Into Programming
 
-Welcome to the *You Don't Know JS* (*YDKJS*) series.
+ইউ ডোন্ট নো জেএস *You Don't Know JS* (*YDKJS*) সিরিজ এ স্বাগতম।
 
 *Up & Going* is an introduction to several basic concepts of programming -- of course we lean toward JavaScript (often abbreviated JS) specifically -- and how to approach and understand the rest of the titles in this series. Especially if you're just getting into programming and/or JavaScript, this book will briefly explore what you need to get *up and going*.
 
